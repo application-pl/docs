@@ -78,4 +78,13 @@ Oferujemy wsparcie klienta w jego rodzimym języku poprzez sieć dystrybutorów 
 Współpraca z portalem Founder.pl umożliwa realizację każdego z etapów z wykwalifikowaną kadrą specjalistów w swoich dziedzinach.
 Koszty każdej kampanii są wyceniane i dostosowywane do aktualnych potrzeb zleceniodawcy.
 
+## Founder
+to orgazniacja skupiająca freelancerów oraz firmy z każdego kraju w europie,
+oferujemy usługi:
++ tłumaczy
++ programistów
++ handlowców
++ blogerów
++ videoblogerów
+
 
