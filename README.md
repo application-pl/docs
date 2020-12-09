@@ -2,6 +2,9 @@
 # docs
 Dokumentacja projektu Application.pl
 
++ founder.pl - technologiczny support MSP
++ apiFoundation.com - ekosystem technologiczny
++ softreck.pl - partner w budowaniu ekosystemu dla biznesu
 
 # cel powstania projektu
 
@@ -47,7 +50,7 @@ Przygotowanie artykułu po polsku, a następnie artykułułów w językach z ka�
 
 #### Katalogi branżowe
 Opracowanie specyfikacji i dokumentacji użytkownika i opublikowanie jej w katalogach branżowych specyficznych dla każdego kraju europejskiego
-Integrajca z API popularnych mediów
+Integracja z API popularnych mediów
 
 #### Video 
 Stworzenie materiału video dla każdego kraju (lokalnego języka) poprzez współpracę z influencerami.
